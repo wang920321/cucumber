@@ -22,10 +22,9 @@ public class Belly {
 
 			return "growl";
 
-		} else {
-
-			return "silent";
-
 		}
+
+		return "silent";
+
 	}
 }
